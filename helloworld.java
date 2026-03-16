@@ -5,7 +5,7 @@ public class helloworld {
         String school = "ROCORI high school";
         String favoriteNumber = "6";
         System.out.println(name);
-        System.out.println(age);
+        System.out.println(FavSub);
         System.out.println(" School: " + school + ", favorite number: " + favoriteNumber);
     }
 }
